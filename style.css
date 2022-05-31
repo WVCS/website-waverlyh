@@ -1,3 +1,33 @@
-body {
-
+body{
+  background-color:#7796CB;
+}
+ul{
+  list-style-type:None;
+  text-align:left;
+  position:fixed;
+}
+li{
+  float:left;
+}
+li a{
+  color:white;
+  padding: 30px;
+  font-family:"Papyrus", Family;
+  text-decoration-line:None;
+}
+li a:hover{
+  background-color:grey;
+}
+h2{
+  font-size:400%;
+  letter-spacing:4px;
+  text-decoration-line:underline;
+}
+p{
+  font-size:300%;
+}
+img{
+  width:50%;
+  height:50%;
+  border:dashed 6px;
 }
